@@ -1,0 +1,8 @@
+Name: LibraicElements
+Version: 1.0.0
+Title: LibraicElements
+Desc: 
+DLL: bin\LibraicElements.dll
+Dependencies:
+- Name: Quintessential
+  Version: 0.2.0
