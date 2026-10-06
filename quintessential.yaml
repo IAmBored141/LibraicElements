@@ -6,3 +6,6 @@ DLL: bin\LibraicElements.dll
 Dependencies:
 - Name: Quintessential
   Version: 0.2.0
+OptionalDependencies:
+- Name: FalseAether
+  Version: 0.0.3

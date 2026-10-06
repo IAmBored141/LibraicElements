@@ -25,6 +25,12 @@
     </ItemDefinitionGroup>
 
 	<ItemGroup>
+		<Reference Include="Brimstone">
+		  <HintPath>..\..\raw dll\Brimstone.dll</HintPath>
+		</Reference>
+		<Reference Include="FalseAether">
+		  <HintPath>..\..\raw dll\FalseAether.dll</HintPath>
+		</Reference>
 		<Reference Include="Lightning">
 			<HintPath>$(OpusPath)\ModdedLightning.exe</HintPath>
 		</Reference>
